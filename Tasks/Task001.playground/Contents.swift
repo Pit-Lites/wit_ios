@@ -7,7 +7,9 @@
 // MARK: - Solution
 //
 // Beginning of the solution
-
+var table: Int = 19
+var chair = 8
+var sum = table + chair
 // End of the solution
 
 // MARK: - Tests
