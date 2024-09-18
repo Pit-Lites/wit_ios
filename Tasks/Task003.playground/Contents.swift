@@ -7,7 +7,14 @@
 // MARK: - Solution
 //
 // Beginning of the solution
-
+var interstellarRaiting = 8.9
+var shrekRaiting = 8.3
+var maxRaiting: Double
+if interstellarRaiting > shrekRaiting {
+    maxRaiting = interstellarRaiting
+} else {
+    maxRaiting = shrekRaiting
+}
 // End of the solution
 
 // MARK: - Tests
