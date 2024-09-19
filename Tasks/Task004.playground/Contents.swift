@@ -8,7 +8,9 @@
 // MARK: - Solution
 //
 // Beginning of the solution
-
+var radius = 1
+var pi = 3.1415
+var len = 2 * pi * Double(radius)
 // End of the solution
 
 // MARK: - Tests
