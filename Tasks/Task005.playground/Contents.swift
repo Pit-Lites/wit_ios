@@ -11,7 +11,11 @@ import Foundation
 // MARK: - Solution
 //
 // Beginning of the solution
-
+var leg1 = 17
+var leg2 = 35
+var area = 0.5 * Double(leg1 * leg2)
+var hypotenuse = sqrt(Double(leg1*leg1 + leg2*leg2))
+var perimeter = Double(leg1 + leg2) + hypotenuse
 // End of the solution
 
 // MARK: - Tests
